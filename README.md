@@ -1,7 +1,7 @@
 # GoogleMapScraper
 
-##create venv
+## create venv
 `virtualenv venv`
 
-##activate venv
+## activate venv
 `source evnv/Scripts/activate`
